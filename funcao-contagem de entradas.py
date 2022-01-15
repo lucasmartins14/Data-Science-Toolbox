@@ -1,6 +1,6 @@
 import pandas as pd
 
-tweets_df = pd.read_csv("C:/Users/lucasMartins/Documents/DataCamp/toolbox/Função-contagem_de_entradas/tweets.csv", sep=",")
+tweets_df = pd.read_csv("C:/Users/lucasMartins/Documents/DataCamp/toolbox/Funções/tweets.csv", sep=",")
 
 # Define count_entries()
 def count_entries(df, col_name):
