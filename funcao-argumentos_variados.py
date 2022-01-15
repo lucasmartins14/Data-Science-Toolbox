@@ -22,4 +22,8 @@ many_words = gibberish("luke", "leia", "han", "obi", "darth")
 
 # Print one_word and many_words
 print(one_word)
+<<<<<<< HEAD
 print(many_words)
+=======
+print(many_words)
+>>>>>>> ce6c902716b7d82bdbf2d7940b35ff21e257a4a8
